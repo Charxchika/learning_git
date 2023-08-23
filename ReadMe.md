@@ -1,3 +1,3 @@
 # Demo
 Description on planetary
-This is Mercurity
+This is Mercury and Venus
